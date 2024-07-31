@@ -5,6 +5,48 @@
 
 ## PL
 
+
+## Pomysł
+
+pytania według poziomu zaawansowania projektu. Oto propozycja:
+
+### 1. Etap początkowy (Idea i wstępna koncepcja):
+
+a) Jaki dokładnie problem rozwiązuje Twój pomysł na usługę SaaS?
+b) Kto jest Twoją docelową grupą klientów?
+c) Jakie unikalne cechy będzie miała Twoja usługa w porównaniu do istniejących rozwiązań?
+d) Czy masz już jakieś doświadczenie w prowadzeniu biznesu SaaS?
+e) Jakie są Twoje główne obawy związane z uruchomieniem tego projektu?
+
+### 2. Etap badań i planowania:
+
+a) Czy przeprowadziłeś już jakiekolwiek badania rynku? Jeśli tak, jakie wnioski z nich wyciągnąłeś?
+b) Czy rozważałeś stworzenie landing page'a do zbadania zainteresowania Twoim pomysłem?
+c) Jakie są Twoje oczekiwania co do liczby potencjalnych klientów w pierwszym roku działalności?
+d) Jaki model cenowy rozważasz dla swojej usługi (np. miesięczna subskrypcja, roczna licencja)?
+e) Ile czasu i zasobów jesteś gotów zainwestować w rozwój tego pomysłu?
+
+### 3. Etap prototypowania i walidacji:
+
+a) Czy masz już jakiś prototyp lub minimum viable product (MVP)?
+b) Jakie metryki sukcesu określiłbyś dla swojego projektu w ciągu pierwszych 6 miesięcy?
+c) Jak planujesz pozyskiwać pierwszych klientów?
+d) Czy masz już pomysł na to, jak zautomatyzować kluczowe procesy w Twojej usłudze?
+e) Czy rozważałeś różne scenariusze rozwoju projektu, w tym potencjalne przeszkody i sposoby ich pokonania?
+
+### 4. Etap zaawansowany (Przygotowanie do wdrożenia i rozwoju):
+
+a) Czy rozważałeś, ile czasu i inwestycji potrzebowałaby konkurencja, aby stworzyć podobne rozwiązanie?
+b) Jakie umiejętności lub zasoby techniczne posiadasz, które dają Ci przewagę nad potencjalną konkurencją?
+c) Czy masz już plan na to, jak będziesz rozwijał i aktualizował swoją usługę w przyszłości?
+d) Jakie są Twoje długoterminowe cele dla tego projektu (np. na najbliższe 3-5 lat)?
+e) Jakie konkretne wsparcie lub zasoby są Ci potrzebne, aby skutecznie uruchomić i rozwinąć ten projekt?
+
+Ta struktura pozwala na dostosowanie pytań do aktualnego etapu rozwoju projektu klienta. Możemy zacząć od pytań z odpowiedniej grupy, w zależności od tego, jak zaawansowany jest pomysł i jak daleko posunęły się prace nad jego realizacją. To podejście umożliwi bardziej efektywne doradztwo i wsparcie w rozwijaniu projektu SaaS.
+
+
+
+
 ---
 ## Strategia ekspansji globalnej
 
