@@ -198,7 +198,7 @@ Benefit from this once-in-a-lifetime chance while creating the place of your dre
 
 ## IDEA
 
-[Finding Micro SaaS Services Ideas in 2023](https://www.preetamnath.com/micro-SaaS Services/finding-micro-SaaS Services-ideas)
+[Finding Micro SaaS Services Ideas in 2023](https://www.preetamnath.com/micro-SaaS/finding-micro-SaaS Services-ideas)
 
 Most people jump right in and start hunting for a business idea. While serendipity might strike, you want to follow a path that leaves less of the outcome in the hands of fate.
 
@@ -340,6 +340,6 @@ And finally ask if others might have the same problem that they are tired of, an
 
 ---
 
-+ [edit](https://github.com/onepersonSaaS Services/www/edit/main/README.md)
++ [edit](https://github.com/onepersonservices/www/edit/main/README.md)
 
 
